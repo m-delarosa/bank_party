@@ -22,6 +22,6 @@ ba6 = Account.new("76876", 833, cap_one, desirae, 2011)
 ba7 = Account.new("2456546", 5.45, chase, desirae)
 
 
+pp Bank.average_customer_age
+# binding.pry
 
-binding.pry
-0
